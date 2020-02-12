@@ -19,7 +19,7 @@ $ echo hello
 Copy and paste the output below.
 ----------
 
-
+hello
 
 ==========
 2. Type:
@@ -29,6 +29,7 @@ $ echo hello there
 Copy and paste the output below.
 ----------
 
+hello there
 
 
 ==========
@@ -39,7 +40,7 @@ $ echo good mornin'
 Copy and paste the output below.
 ----------
 
-
+> 
 
 ==========
 4. Uh-oh... we're stuck!
